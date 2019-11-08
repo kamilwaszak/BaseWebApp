@@ -17,10 +17,8 @@ h2 {
   font-family: 'Dosis', sans-serif;
   font-weight: normal;
   margin-top: 40px;
-  margin-left: 300px;
-  margin-right: 300px;
-  font-size: 18px;
-  line-height: 18px
+  font-size: 20px;
+  line-height: 24px
 }
 
 p {
@@ -28,14 +26,17 @@ p {
 }
 
 button {
+  font-family: 'Lato', sans-serif;
   margin-top: 40px;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 .page-header {
-  background-color: #00bda5;
+  background-color: #ffffff;
   padding-top: 40px;
   padding-bottom: 80px;
-  color: #ffffff;
+  color: #5F9BCE;
 }
 
 #image img {
